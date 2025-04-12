@@ -4,7 +4,7 @@ require "http"
 my_string = "Hello, world!"
 pp my_string
 
-require "http"
+#require "http"
 require "rqrcode"
 
 qrcode = RQRCode::QRCode.new("wikipedia qr code")

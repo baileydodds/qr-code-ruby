@@ -1,4 +1,10 @@
-my_string = "Howdy, there!"
+require "./goodbye.rb"
+require "active_support/all"
 
-pp my_string
+# my_string = "Howdy, there!"
 
+# pp my_string
+
+x = 1
+
+pp x.ordinalize
