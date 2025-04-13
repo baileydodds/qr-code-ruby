@@ -9,4 +9,3 @@ last_part = "!"
 byebug
 
 pp first_part + lucky_num + last_part
-
